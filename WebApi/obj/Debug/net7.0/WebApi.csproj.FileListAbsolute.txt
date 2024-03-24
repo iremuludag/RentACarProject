@@ -1,0 +1,6 @@
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\İrem ULUDAĞ\Desktop\RentACar-Udemy-Course-master\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
